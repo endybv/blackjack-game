@@ -62,10 +62,10 @@ p {
     font-size: 1.6rem;
     font-family: digital-7;
     background-color: hsl(229, 47%, 20%);
-    opacity: .5;
     padding: .2rem .6rem;
     box-sizing: inherit;
-}
+    border: 1px solid white;
+    opacity: .5;
 
 .center {
     transform: translatey(-100%);
