@@ -11,6 +11,10 @@
     font-size: 1rem;
 }
 
+body {
+    text-align: center;
+}
+
 h2 {
     font-size: 1.8rem;
     letter-spacing: 2px;
@@ -34,7 +38,7 @@ p {
     padding: 3em;
     background-color: hsl(229, 47%, 20%);
     width: 32rem;
-    margin: 5rem auto;
+    margin: 5rem auto 0 auto;
     border-radius: .8em;
 }
 
@@ -60,4 +64,8 @@ p {
     background-color: hsl(229, 47%, 20%);
     opacity: .5;
     padding: .2rem .6rem;
+}
+
+.center {
+    transform: translatey(-100%);
 }
