@@ -64,6 +64,7 @@ p {
     background-color: hsl(229, 47%, 20%);
     opacity: .5;
     padding: .2rem .6rem;
+    box-sizing: inherit;
 }
 
 .center {
