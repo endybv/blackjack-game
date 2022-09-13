@@ -27,6 +27,9 @@ p {
 }
 
 .score {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 6rem;
     aspect-ratio: 1/1;
     background-color: hsl(353, 100%, 2%);
